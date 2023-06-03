@@ -1,0 +1,40 @@
+OOPS IN C++
+
+*Encapsulation
+*Object
+*Class
+*Abstraction
+*Polymorphism
+*Inheritance
+
+
+
+
+*CLASS:Blueprint of object
+*OBJECT:instances of class
+*ENCAPSULATION:Bind together
+*ABSTRACTION: Displaying only essential details
+*POLYMORPHISM:different behavior
+*INHERITANCE: Capability of a calss to derive properties and *characteristics from another class
+
+
+
+DYNAMIC BINDING
+
+CONSTRUCTOR
+
+DESTRUCTOR
+
+ACCESS MODIFIERS 
+
+INHERITANCE:Single,Multiple,Multilevel,Hierarchical,Hybrid 
+
+polymorphism: cooperating overloading, function overloading
+
+INLINE FUNCTION
+
+METHOD OVERRIDING 
+
+VIRTUAL FUNCTIONS:Pure vertual function and abstract class
+
+DYNAMIC CONSTRUCTOR
